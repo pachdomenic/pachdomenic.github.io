@@ -10,3 +10,6 @@ Thumbs.db
 # временное
 tmp/
 *.log
+
+# инструменты
+.claude/
